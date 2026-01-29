@@ -53,7 +53,7 @@ minikube service color-api
 
 ![Color API running on Kubernetes](images/url.png)
 
-<h3 align="center">🚀 Color API running on Kubernetes</h3>
+<h3>🚀 Color API running on Kubernetes</h3>
 
 <p align="center">
   <img src="images/website_acess.png" width="700">
