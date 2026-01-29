@@ -50,8 +50,12 @@ minikube get services
 minikube service color-api
 
 ## Kubernetes Output
+ 
+<h3>minikube service color-api</h3>
 
-![Color API running on Kubernetes](images/url.png)
+<p align="center">
+  <img src="images/url.png" width="300">
+</p>
 
 <h3>🚀 Color API running on Kubernetes</h3>
 
