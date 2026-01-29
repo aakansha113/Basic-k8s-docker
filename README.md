@@ -12,6 +12,15 @@ This is a simple Node.js application deployed using Docker and Kubernetes (Minik
 ## Application
 Simple API that returns a message.
 
+## Folder structure
+```
+color-api/
+├── Dockerfile
+├── index.js
+├── package.json
+├── README.md
+└── images/
+```
 ## Steps
 
 ### 1. Create Node App
