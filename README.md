@@ -51,5 +51,5 @@ minikube service color-api
 
 ## Kubernetes Output
 
-![Color API running on Kubernetes](images/k.png)
+![Color API running on Kubernetes](images/url.png)
 
