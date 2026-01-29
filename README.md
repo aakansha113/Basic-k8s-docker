@@ -54,7 +54,7 @@ minikube service color-api
 <h3>minikube service color-api</h3>
 
 <p align="center">
-  <img src="images/url.png" width="300">
+  <img src="images/url.png" >
 </p>
 
 <h3>🚀 Color API running on Kubernetes</h3>
