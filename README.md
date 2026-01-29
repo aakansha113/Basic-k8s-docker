@@ -48,3 +48,8 @@ curl http://<ip>
 7. Acess on website :
 minikube get services
 minikube service color-api
+
+## Kubernetes Output
+
+![Color API running on Kubernetes](images/k.png)
+
